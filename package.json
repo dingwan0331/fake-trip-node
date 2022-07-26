@@ -15,7 +15,5 @@
   "bugs": {
     "url": "https://github.com/dingwan0331/fake-trip-node/issues"
   },
-  "homepage": "https://github.com/dingwan0331/fake-trip-node#readme",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/dingwan0331/fake-trip-node#readme"
 }
