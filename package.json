@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dingwan0331/fake-trip-node/issues"
   },
-  "homepage": "https://github.com/dingwan0331/fake-trip-node#readme"
+  "homepage": "https://github.com/dingwan0331/fake-trip-node#readme",
+  "dependencies": {
+    "swagger-ui-express": "^4.5.0"
+  }
 }
